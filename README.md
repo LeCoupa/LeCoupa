@@ -12,7 +12,7 @@
       <th align="center">
          <img width="441" height="1">
          <a href="https://www.theresilience.club/"><img src="https://pbs.twimg.com/profile_images/1347900880872493056/fe5hzAgM_400x400.jpg" width="200px"/></a>
-         <p>Improve your habits like never before app</p>
+         <p>Improve your habits like never before</p>
       </th>
    </tr>
 
