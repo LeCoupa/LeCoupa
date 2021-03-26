@@ -1,6 +1,6 @@
 ### Hi! I'm Julien. Follow me to learn more about my favorite Vue, Nuxt, Adonis and Tailwind packages.
 
-### I spend most of my time building these two products.
+### I spend most of my days building these two amazing products.
 
 <table>
    <tr>
