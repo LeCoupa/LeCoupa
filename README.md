@@ -12,7 +12,7 @@
       <th align="center">
          <img width="441" height="1">
          <a href="https://www.theresilience.club/"><img src="https://pbs.twimg.com/profile_images/1375478469795123201/lDBnsRD8_400x400.jpg" width="200px"/></a>
-         <p>Build new habits like never before</p>
+         <p>Improve your life by building new habits</p>
       </th>
    </tr>
 
