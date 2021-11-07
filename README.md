@@ -11,7 +11,7 @@
       </th>
       <th align="center">
          <img width="441" height="1">
-         <a href="https://www.theresilience.club/"><img src="https://pbs.twimg.com/profile_images/1446116770411008002/WgPlxr5M_400x400.jpg" width="200px"/></a>
+         <a href="https://www.resilience.club/"><img src="https://pbs.twimg.com/profile_images/1446116770411008002/WgPlxr5M_400x400.jpg" width="200px"/></a>
          <p>Improve your life by building new habits</p>
       </th>
    </tr>
@@ -21,7 +21,7 @@
         <a href="https://www.prospectwith.com/">ProspectWith</a>
       </td>
       <td align="center">
-        <a href="https://www.theresilience.club/">The Resilience Club</a>
+        <a href="https://www.theresilience.club/">Resilience Club</a>
       </td>
    </tr>
 </table>
