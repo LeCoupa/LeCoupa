@@ -7,7 +7,7 @@
       <th align="center">
          <img width="380" height="1">
          <a href="https://www.thecompaniesapi.com/"><img src="https://www.jaimelesstartups.fr/wp-content/uploads/2020/08/prospectwith.png" width="200px"/></a>
-         <p>An API to search or enrich companies</p>
+         <p>The API to search or enrich companies</p>
       </th>
       <th align="center">
          <img width="380" height="1">
