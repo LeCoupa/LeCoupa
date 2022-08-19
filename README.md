@@ -5,12 +5,12 @@
 <table>
    <tr>
       <th align="center">
-         <img width="441" height="1">
+         <img width="400" height="1">
          <a href="https://www.thecompaniesapi.com/"><img src="https://www.jaimelesstartups.fr/wp-content/uploads/2020/08/prospectwith.png" width="200px"/></a>
          <p>An API to search or enrich companies</p>
       </th>
       <th align="center">
-         <img width="441" height="1">
+         <img width="400" height="1">
          <a href="https://www.resilience.club/"><img src="https://pbs.twimg.com/profile_images/1446116770411008002/WgPlxr5M_400x400.jpg" width="200px"/></a>
          <p>Improve your life by building new habits</p>
       </th>
