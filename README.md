@@ -6,8 +6,8 @@
    <tr>
       <th align="center">
          <img width="441" height="1">
-         <a href="https://www.prospectwith.com/"><img src="https://www.jaimelesstartups.fr/wp-content/uploads/2020/08/prospectwith.png" width="200px"/></a>
-         <p>Increase your sales by targeting the right prospects</p>
+         <a href="https://www.thecompaniesapi.com/"><img src="https://www.jaimelesstartups.fr/wp-content/uploads/2020/08/prospectwith.png" width="200px"/></a>
+         <p>An API to search or enrich companies</p>
       </th>
       <th align="center">
          <img width="441" height="1">
@@ -18,7 +18,7 @@
 
    <tr style="text-transform: uppercase;">
       <td align="center">
-        <a href="https://www.prospectwith.com/">ProspectWith</a>
+        <a href="https://www.thecompaniesapi.com/">The Companies API</a>
       </td>
       <td align="center">
         <a href="https://www.theresilience.club/">Resilience Club</a>
