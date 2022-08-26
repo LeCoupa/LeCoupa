@@ -24,7 +24,7 @@
    </tr>
 </table>
 
-## I share videos on YouTube about the things I learn in coding, growth hacking and productivity
+## I share videos on YouTube about the things I learn in coding, growth and productivity
 
 <a href="https://www.youtube.com/channel/UC3Xno2xrHKEPqzd8ZZK02gg/videos?sub_confirmation=1">
    <img src="images/youtube_cover.png?raw=true"/>
