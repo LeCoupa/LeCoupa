@@ -1,7 +1,5 @@
 ### Hey, I'm Julien. Follow me to learn more about my favorite Vue, Nuxt, Adonis and Tailwind packages.
 
-### If you are interested by my work, I spend most of my time building these two amazing products.
-
 <table>
    <tr>
       <th align="center">
@@ -11,7 +9,7 @@
       </th>
       <th align="center">
          <img width="380" height="1">
-         <a href="https://www.resilience.club/"><img src="https://pbs.twimg.com/profile_images/1446116770411008002/WgPlxr5M_400x400.jpg" width="200px"/></a>
+         <a href="https://www.resilience.club/" target="_blank"><img src="https://pbs.twimg.com/profile_images/1446116770411008002/WgPlxr5M_400x400.jpg" width="200px"/></a>
          <p>Improve your life by building new habits</p>
       </th>
    </tr>
@@ -21,7 +19,13 @@
         <a href="https://www.thecompaniesapi.com/">The Companies API</a>
       </td>
       <td align="center">
-        <a href="https://www.theresilience.club/">Resilience Club</a>
+        <a href="https://www.theresilience.club/" target="_blank">Resilience Club</a>
       </td>
    </tr>
 </table>
+
+## I share videos on YouTube about the things I learn in coding, growth hacking and productivity
+
+<a href="https://www.youtube.com/channel/UC3Xno2xrHKEPqzd8ZZK02gg/videos?sub_confirmation=1">
+   <img src="images/youtube_cover.png?raw=true"/>
+</a>
