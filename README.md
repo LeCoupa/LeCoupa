@@ -1,11 +1,5 @@
 ### 👋 Hey, I'm Julien. Follow me to learn more about my favorite Vue, Nuxt, Adonis and Tailwind packages.
 
-### 🎥 You can click on the banner below to discover my YouTube about coding, growth and productivity.
-
-<a href="https://www.youtube.com/channel/UC3Xno2xrHKEPqzd8ZZK02gg/videos?sub_confirmation=1" target="_blank">
-   <img src="images/youtube_cover.png?raw=true"/>
-</a>
-
 <table>
    <tr>
       <th align="center">
