@@ -19,7 +19,7 @@
         <a href="https://www.thecompaniesapi.com/">The Companies API</a>
       </td>
       <td align="center">
-        <a href="https://www.theresilience.club/" target="_blank">Resilience Club</a>
+        <a href="https://www.resilience.club/" target="_blank">Resilience Club</a>
       </td>
    </tr>
 </table>
